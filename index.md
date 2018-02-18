@@ -1,3 +1,5 @@
+We are a team of Computer Science and Engineering Undergraduates from University of Moratuwa, Sri Lanka, aspiring to bring innovative ideas to life.
+
 GRYD Technologies was formed in 2016 with the collaboration of four undergraduates during a semester project. Since then, we have evolved into a software development company. Our current focus is on research in the area of distributed computing, and are in the process of developing a microservices framework that simply 'works' across all scales of enterprises.
 
 ### Our Projects
